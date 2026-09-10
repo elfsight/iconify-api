@@ -1,6 +1,6 @@
 ARG ARCH=amd64
 ARG NODE_VERSION=22
-ARG OS=bullseye-slim
+ARG OS=bookworm-slim
 ARG ICONIFY_API_VERSION=3.2.0
 ARG SRC_PATH=./
 
